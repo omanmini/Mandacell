@@ -1,8 +1,4 @@
-# mandacell
+# Mandacell - The family organizer
 
-A new Flutter project.
+Comunicate, share and organize your family with Mandacell
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
